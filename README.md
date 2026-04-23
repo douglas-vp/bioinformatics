@@ -1,4 +1,4 @@
-![Bioinformatics vs Computational Biology](Bioinformatics.png).
+![Bioinformatics vs Computational Biology](bioinformatics.png).
 
 **Bioinformática** é a aplicação de ferramentas computacionais para coletar, armazenar, analisar, manipular, apresentar e compartilhar dados biológicos.
 
